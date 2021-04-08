@@ -1,0 +1,25 @@
+img{
+    width: 800px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+div{
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px;
+    margin: 0 200px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+html{
+    background-image: url("../images/background.jpg");
+}
+
